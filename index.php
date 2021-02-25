@@ -6,7 +6,7 @@
 <body background="bgt.jpg" alink="yellow" vlink="yellow">
 <br>
 <b><h1><font color="black"><center><mark> THE STORY OF POVERTY </b></h1></font></center></mark>
-<b><h2><font color="orange"> What are the causes of Poberty?</B></h2></font>
+<b><h2><font color="orange"> What are the causes of Poverty?</B></h2></font>
 <b><font color="white">We know that there are a huge number of causes of poverty, many of which are out of the hands of those who ultimately suffer. These include all of the following:
 <br>• being born into poverty
 <br>• suffering through domestic abuse which leads toliving in poverty due to the person not being in control of their incomes
@@ -15,7 +15,7 @@
 <br>• losing everything due to a partner gambling away the family income and savings
 <br>• being pressurised into supporting others due to emotional ties leading to debt or increased debt
 <br>and potentially the loss of their home</b></font></br>
-<br><b><h2><font color="yellow"> What are the effect of Poberty? </b></h2><font>
+<br><b><h2><font color="yellow"> What are the effect of Poverty? </b></h2><font>
 <font color="white"><b>• The levels of stress that each person is under,greatly increases. They cannot concentrate at work, leading to issues with their performance which can then lead to 
 <br>fears about losing their job.
 <br>• They become socially isolated due to not having any spare funds to join in any social events or activities (e.g. lunch with friends, going to the pub, visiting relatives who don’t stay nearby).
